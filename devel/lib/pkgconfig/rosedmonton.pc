@@ -1,0 +1,8 @@
+prefix=/home/dhrodriguezg/Android_Camera/devel
+
+Name: rosedmonton
+Description: Description of rosedmonton
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/dhrodriguezg/Android_Camera/devel/lib 
+Requires: 
